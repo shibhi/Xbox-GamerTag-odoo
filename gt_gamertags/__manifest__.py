@@ -11,7 +11,8 @@
     'author': 'gamertags.info',
     'license': 'AGPL-3',
     'website': 'http://www.gamertags.info',
-  
+  'contributors': [
+        'Larry peter <info@gamertags.info>',
     ],
     'depends': [
         'br_account_payment', 'br_data_account_product'
